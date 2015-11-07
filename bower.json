@@ -1,0 +1,25 @@
+{
+  "name": "hour-element-playground",
+  "version": "1.0.4",
+  "authors": [
+    "Marta Tatiana"
+  ],
+  "description": "Exemplary hour element.",
+  "keywords": [
+    "web-component",
+    "polymer"
+  ],
+  "main": "hour-element-playground.html",
+  "homepage": "https://github.com/marta-tatiana/hour-element-playground",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  }
+}
